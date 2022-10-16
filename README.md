@@ -1,6 +1,6 @@
 # PiPicoMicroPythonDoublePrecision
 
-Some pre-built binaries for MicroPython for the Raspberry Pi Pico.
+Some pre-built binaries for MicroPython for the Raspberry Pi Pico and Pico W (they are different, download the correct binary!)
 
 These binaries are built with double-precision math.
 
